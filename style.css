@@ -1,0 +1,200 @@
+body {
+	background-color: #A8C3E8;
+	color: #A7E9AF;
+	font-family: Courier;
+	font-style: 
+	font-size: 30px;
+	line-height: 1.6
+	font-weight: 100;
+	text-align: center;
+}
+
+img {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+#img-profile {
+	border-radius: 50%;
+	height: 150px;
+	width: 150px;
+	display: block;
+	margin: auto;
+	margin-bottom: 20px;
+}
+
+h1, h2 {
+	color: #0f4c75;
+	font-family: Courier;
+	letter-spacing: 6px;
+	font-size: 60px
+	text-transform: uppercase;
+	font-weight: 3000;
+	text-align: center;
+}
+
+h3, h4 {
+	color: #3282b8;
+	font-family: Courier;
+	font-weight: 600;
+	font-size: 25px
+	font-weight: lighter;
+	text-align: center;
+}
+
+p {
+	color: #3282b8;
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+	color: #3282b8;
+
+}
+
+a:hover {
+	color: #0f4C75;
+}
+
+div {
+	background: white;                       
+	padding: 30px;                            
+	border-radius: 4px;                       
+	box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	margin: 30px
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+	background: none;
+	padding: none;                            
+	border-radius: none;                       
+	box-shadow: none;
+	margin: none;
+	text-align: center;
+}
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.card-white h2 {
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.card-white p {
+	margin-right: 45px;
+}
+
+#introduction p {
+	margin-bottom: 40px;
+}
+
+#experiences p {
+	margin-top: 70px;
+}
+
+.btn-blue {
+	background-color: #3282b8;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+.btn-blue:hover {
+	background-color: #0f4c75;
+	color: white;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+
+}
+
+.list-inline li {
+	display: inline;
+	padding: 50px.
+
+}
+
+.list-inline i {
+	font-size: 40px
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+@media (max-width: 500px) {
+	.container {
+		width: 400px;
+	}
+}
+
+@media (max-width: 760px) {
+	.container {
+		width: 600px;
+	}
+}
+
+
+.logo-ecole {
+	border-radius: 0px;
+	height: 13%;
+	width: 13%;
+	display: block;
+	margin: auto;
+	float: left;
+	margin-right: 10px;
+}
+
+#logo-sabana {
+	border-radius: 0px;
+	height: 6%;
+	width: 6%;
+	display: block;
+	margin: auto;
+	margin-left: 28px;
+	float: left;
+	margin-right: 10px;
+}
+
+.drapeau {
+	border-radius: 0px;
+	height: 5%;
+	width: 5%;
+	display: block;
+	margin: auto;
+	float: left;
+	margin-right: 10px;
+	margin-top: 0px
+}
+
+footer p {
+	display: block;
+	color: white;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
